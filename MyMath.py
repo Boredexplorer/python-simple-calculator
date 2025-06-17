@@ -1,5 +1,6 @@
 from tkinter import messagebox
-
+#added math module for pi calculation
+import math # Import the math module
 # myArea takes 5 arguments and gives us area of 2D shapes
 
 
